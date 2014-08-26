@@ -464,6 +464,8 @@ h5.about_subtitle{
 .icon-globe-alt:before { content: '\1f310'; } /* '\1f310' */
 .icon-award:before { content: '\1f3c9'; } /* '\1f3c9' */
 .icon-megaphone:before { content: '\1f4e3'; } /* '\1f4e3' */
+.icon-keyboard:before { content: '\f11c'; } 
+.icon-laptop:before { content: '\e803'; } 
 /* -----------------------------------------
    4. SOCIAL SECTION
 ----------------------------------------- */

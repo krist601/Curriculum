@@ -93,6 +93,9 @@ a:focus {
 .zerply{
 	background: url('../../images/icons/blue/zerply.png') no-repeat center top;
 }
+.mail{
+	background: url('../../images/icons/blue/mail.png') no-repeat center top;
+}
 
 /*------------------------------------------------------
 	SOCIAL ICONS HERO IMAGE
@@ -100,7 +103,7 @@ a:focus {
 ---------------------------------------------------------*/
 
 .pos_1{
-	background-image: url('../../images/icons/blue/twitter.png');
+	background-image: url('../../images/icons/blue/linkedin.png');
 }
 .pos_2{
 	background-image: url('../../images/icons/blue/facebook.png');
@@ -109,5 +112,5 @@ a:focus {
 	background-image: url('../../images/icons/blue/dribbble.png');
 }
 .pos_4{
-	background-image: url('../../images/icons/blue/google.png');
+	background-image: url('../../images/icons/blue/skype.png');
 }
