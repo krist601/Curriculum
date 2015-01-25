@@ -795,20 +795,20 @@ h3.achievement_title{
 }
 /*here you can add more portfolio items to your portfolio section*/
 .awsm-img-1 { 
-	background-image: url(../demo/portfolio/1.png);
+	background-image: url(../images/consulrima.png);
 }
 
 .awsm-img-2 { 
-	background-image: url(../demo/portfolio/2.png);
+	background-image: url(../images/fast.png);
 }
 .awsm-img-3 { 
-	background-image: url(../demo/portfolio/3.jpg);
+	background-image: url(../images/bulkLoader.jpg);
 }
 .awsm-img-4 { 
-	background-image: url(../demo/portfolio/4.png);
+	background-image: url(../images/iacdPequena.jpg);
 }
 .awsm-img-5 { 
-	background-image: url(../demo/portfolio/5.jpg);
+	background-image: url(../images/guitarTeacher2.jpg);
 }
 .awsm-img-6 { 
 	background-image: url(../demo/portfolio/6.png);
